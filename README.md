@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xGuix
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Java8, Python3
-- 💞️ I’m looking to collaborate on thnigs that i could
+- 👀 I’m interested in AI and robotic
+- 🌱 I’m currently learning Java 8, Python 3
+- 💞️ I’m looking to collaborate on things that i could
 - 📫 How to reach me? with smoke signals
 
 <!---
