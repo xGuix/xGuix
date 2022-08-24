@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xGuix
 - 👀 I’m interested in AI and robotic
-- 🌱 I’m currently learning Java 8, Python 3
+- 🌱 I’m currently learning Python 3 and javascript
 - 💞️ I’m looking to collaborate on things that i could
 - 📫 How to reach me? with smoke signals
 
