@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xGuix
+- 👋 Hi, I’m @xGuix / Java full stack dev
 - 👀 I’m interested in AI and robotic
 - 🌱 I’m currently learning Python 3 and javascript
 - 💞️ I’m looking to collaborate on things that i could
